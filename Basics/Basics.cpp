@@ -11,6 +11,8 @@ int main()
 	std::cout << "Hello World \n";
 	std::cout << "Changes made in repo online \n";
 
+	std::cout << "Changes made in local repo \n";
+
     return 0;
 }
 
